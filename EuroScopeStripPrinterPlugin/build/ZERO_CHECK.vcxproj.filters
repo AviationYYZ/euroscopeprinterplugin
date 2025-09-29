@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Charlie Yablon\Documents\EuroscopePrint\EuroScopeStripPrinterPlugin\build\CMakeFiles\d06705599848972312357ac9598b1f45\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B6A7EC9D-146E-30F3-A09B-3105114FE689}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
